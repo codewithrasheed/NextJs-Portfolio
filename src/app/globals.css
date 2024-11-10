@@ -12,17 +12,18 @@ html,
 body {
   width: 100%;
   height: 100%;
-  background: linear-gradient(to right, #320755, #3e086b);
+  background: linear-gradient(to right, #4a0c7c, #3e086b);
 }
 
 /* HEADER CSS OPEN */
-
+/* #170550, #1e066d */
 .navbar {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 5px 20px;
-  background: linear-gradient(to right, #170550, #1e066d);
+  padding: 8px 20px;
+  background: linear-gradient(to right,#4a0c7c, #3e086b );
+  box-shadow: 5px 1px 10px black;
   color: white;
   position: fixed;
   width: 100%;
@@ -442,7 +443,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background: linear-gradient(to right, #170550, #1e066d);
+  background: linear-gradient(to right, #4a0c7c, #3e086b);
   color: white;
   width: 100%;
   padding: 0px 20px;
@@ -475,7 +476,9 @@ body {
     right: 0;
     width: 200px;
     height: 100vh;
-    background-color: #170550;
+    background-color: #4a0c7c;
+    
+
     padding: 60px 20px;
     gap: 20px;
     transition: transform 0.3s ease-in-out;
