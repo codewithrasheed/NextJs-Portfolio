@@ -12,7 +12,7 @@ const Home = () => {
         <h1 style={{ fontSize: "50px" }}>Rasheed Ahmed</h1>
         <Type />
         <p>
-          Hi, I'm Rasheed Ahmed, a dedicated MERN Stack Developer and Next.js
+          Hi, I&apos;m Rasheed Ahmed, a dedicated MERN Stack Developer and Next.js
           specialist. I focus on building scalable, dynamic, and responsive web
           applications using modern frameworks and libraries. With expertise in
           MongoDB, Express, React, Node.js, and Next.js, I create robust,
